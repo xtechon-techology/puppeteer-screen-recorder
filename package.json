@@ -1,0 +1,21 @@
+{
+  "name": "puppeterscreenrecording",
+  "version": "1.0.0",
+  "main": "pupeeter-screen-recording.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node pupeeter-screen-recording.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "ffmpeg",
+    "screen recording",
+    "automation"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "description": "A Puppeteer script with FFmpeg integration for screen recording.",
+  "dependencies": {
+    "puppeteer-screen-recorder": "^3.0.3"
+  }
+}
